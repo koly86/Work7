@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Work7</string>
+    <string name="more">more</string>
+    <string name="content_description_search">content_description_search</string>
+    <string name="content_description_more">content_description_more</string>
+    <string name="order">Задание</string>
+
+    <string name="orderText">"    Реализовать в верстке 5 элементов интерфейса.
+Создать три стиля.
+Применить два стиля внутри верстки и один внутри темы для всех
+подходящих ему элементов (к примеру применить стиль ко всем TextView).
+Применить наследование стилей будет плюсом"</string>
+    <string name="find">поиск</string>
+</resources>
